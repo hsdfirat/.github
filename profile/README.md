@@ -3,7 +3,7 @@
 
 ### Huawei Student Developers | Fırat University
 
-[Instagram | @hsdfirat](https://instagram.com/hsdfirat)
-[LinkedIn | @hsd-firat-university](https://www.linkedin.com/in/hsd-firat-university)
-[Medium | @hsdfiratuniversity](https://medium.com/@hsdfiratuniversity)
-[Discord | HSD Fırat](https://discord.gg/NTpCX5vh4B)
+Instagram |  [@hsdfirat](https://instagram.com/hsdfirat)<br>
+LinkedIn |  [@hsd-firat-university](https://www.linkedin.com/in/hsd-firat-university)<br>
+Medium |  [@hsdfiratuniversity](https://medium.com/@hsdfiratuniversity)<br>
+Discord |  [HSD Fırat](https://discord.gg/NTpCX5vh4B)<br>
