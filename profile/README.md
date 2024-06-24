@@ -7,3 +7,5 @@ Instagram |  [@hsdfirat](https://instagram.com/hsdfirat)<br>
 LinkedIn |  [@hsd-firat-university](https://www.linkedin.com/in/hsd-firat-university)<br>
 Medium |  [@hsdfiratuniversity](https://medium.com/@hsdfiratuniversity)<br>
 Discord |  [HSD Fırat](https://discord.gg/NTpCX5vh4B)<br>
+
+![](https://komarev.com/ghpvc/?username=hsdfirat&style=for-the-badge&color=c7102c)
